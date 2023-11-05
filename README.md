@@ -1,3 +1,9 @@
+
+
+![Blue Tosca Geometric Technology Linkedln Banner](https://github.com/Vaishnavi-1413/Vaishnavi-1413/assets/132695689/b8cbd74a-0e30-4fd8-ab91-de1bab5971d8)
+
+
+
 👀 I’m interested in: [Data analytics, Data Science, Machine Learning, statistical analysis]
 
 🌱 I’m currently learning: [SQL, Tablue, Data Science]
