@@ -5,6 +5,10 @@
 💞️ I’m looking to collaborate on: [ Open Source Projects]
 
 📫 How to reach me: [ vaishnavikrishnanp@gmail.com]
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaishnavi-1413&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-1413&layout=compact)](https://github.com/YourUsername)
+
 
 
 <!---
